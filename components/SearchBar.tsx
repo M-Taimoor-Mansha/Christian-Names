@@ -41,37 +41,34 @@ export default function SearchBar() {
 
   return (
     <div className="relative mx-auto w-full max-w-xl text-left">
-      <div className="flex items-center gap-3 border-2 border-ink/70 bg-paper px-4 py-3 focus-within:border-oxblood">
+      <div className="flex items-center gap-2 rounded-full border border-ink/25 bg-white px-5 py-3 shadow-sm focus-within:border-oxblood">
         <Search className="h-5 w-5 text-ink-soft" aria-hidden />
         <input
           type="search"
           value={query}
           onChange={handleChange}
           onFocus={ensureIndex}
-          placeholder="Look up a name or meaning…"
+          placeholder="Search a name or meaning..."
           aria-label="Search Christian names"
-          className="w-full bg-transparent text-xl italic outline-none placeholder:text-ink-soft/70"
+          className="w-full bg-transparent text-lg outline-none placeholder:text-ink-soft/70"
         />
       </div>
 
       {results.length > 0 && (
-        <ul className="absolute z-20 mt-1 w-full border-2 border-ink/70 bg-paper shadow-lg">
+        <ul className="absolute z-20 mt-2 w-full overflow-hidden rounded-xl border border-ink/20 bg-white shadow-lg">
           {results.map((item) => (
-            <li
-              key={item.slug}
-              className="border-b border-ink/15 last:border-b-0"
-            >
+            <li key={item.slug}>
               <Link
                 href={`/names/${item.slug}`}
-                className="block px-4 py-2 hover:bg-paper-deep"
+                className="flex flex-col px-5 py-3 hover:bg-paper-deep"
               >
                 <span className="text-lg font-semibold text-oxblood">
-                  {item.name}
-                </span>{" "}
-                <span className="text-sm italic text-ink-soft">
-                  {item.gender === "boy" ? "boy" : "girl"}
+                  {item.name}{" "}
+                  <span className="text-sm font-normal italic text-ink-soft">
+                    ({item.gender === "boy" ? "boy" : "girl"})
+                  </span>
                 </span>
-                <span className="block truncate text-base text-ink-soft">
+                <span className="truncate text-base text-ink-soft">
                   {item.meaning}
                 </span>
               </Link>
