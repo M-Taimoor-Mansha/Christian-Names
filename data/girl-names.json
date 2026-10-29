@@ -1,0 +1,1352 @@
+[
+  {
+    "slug": "abigail",
+    "name": "Abigail",
+    "gender": "girl",
+    "meaning": "My father is joy",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "1 Samuel 25:3 — the wise woman who later became David's wife."
+  },
+  {
+    "slug": "adah",
+    "name": "Adah",
+    "gender": "girl",
+    "meaning": "Adornment",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Genesis 4:19 — a wife of Lamech."
+  },
+  {
+    "slug": "anna",
+    "name": "Anna",
+    "gender": "girl",
+    "meaning": "Grace",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Luke 2:36 — the elderly prophetess who welcomed the infant Jesus."
+  },
+  {
+    "slug": "bathsheba",
+    "name": "Bathsheba",
+    "gender": "girl",
+    "meaning": "Daughter of the oath",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "2 Samuel 11:3 — the wife of David and mother of Solomon."
+  },
+  {
+    "slug": "deborah",
+    "name": "Deborah",
+    "gender": "girl",
+    "meaning": "Bee",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Judges 4:4 — the prophetess and judge who led Israel."
+  },
+  {
+    "slug": "dinah",
+    "name": "Dinah",
+    "gender": "girl",
+    "meaning": "Judged; vindicated",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Genesis 30:21 — the daughter of Jacob and Leah."
+  },
+  {
+    "slug": "eden",
+    "name": "Eden",
+    "gender": "girl",
+    "meaning": "Delight",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Genesis 2:8 — the garden God planted for the first man and woman."
+  },
+  {
+    "slug": "elisheba",
+    "name": "Elisheba",
+    "gender": "girl",
+    "meaning": "My God is an oath",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Exodus 6:23 — the wife of Aaron."
+  },
+  {
+    "slug": "esther",
+    "name": "Esther",
+    "gender": "girl",
+    "meaning": "Star",
+    "origin": "Persian",
+    "biblical": true,
+    "reference": "Book of Esther — the queen who saved her people."
+  },
+  {
+    "slug": "eve",
+    "name": "Eve",
+    "gender": "girl",
+    "meaning": "Life; living",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Genesis 3:20 — the first woman and 'mother of all living'."
+  },
+  {
+    "slug": "hagar",
+    "name": "Hagar",
+    "gender": "girl",
+    "meaning": "Flight (meaning debated)",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Genesis 16:1 — Sarah's servant, mother of Ishmael, whom God saw in the wilderness."
+  },
+  {
+    "slug": "hannah",
+    "name": "Hannah",
+    "gender": "girl",
+    "meaning": "Grace; favor",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "1 Samuel 1:20 — the woman whose prayer for a child was answered with Samuel."
+  },
+  {
+    "slug": "hadassah",
+    "name": "Hadassah",
+    "gender": "girl",
+    "meaning": "Myrtle",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Esther 2:7 — the Hebrew name of Queen Esther."
+  },
+  {
+    "slug": "jael",
+    "name": "Jael",
+    "gender": "girl",
+    "meaning": "Mountain goat",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Judges 4:21 — the woman who helped deliver Israel from Sisera."
+  },
+  {
+    "slug": "jemima",
+    "name": "Jemima",
+    "gender": "girl",
+    "meaning": "Dove",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Job 42:14 — the first daughter born to Job after his restoration."
+  },
+  {
+    "slug": "jochebed",
+    "name": "Jochebed",
+    "gender": "girl",
+    "meaning": "Yahweh is glory",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Exodus 6:20 — the mother of Moses, Aaron and Miriam."
+  },
+  {
+    "slug": "judith",
+    "name": "Judith",
+    "gender": "girl",
+    "meaning": "Praised",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Genesis 26:34 and the Book of Judith (deuterocanonical)."
+  },
+  {
+    "slug": "keturah",
+    "name": "Keturah",
+    "gender": "girl",
+    "meaning": "Incense",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Genesis 25:1 — a wife of Abraham."
+  },
+  {
+    "slug": "keziah",
+    "name": "Keziah",
+    "gender": "girl",
+    "meaning": "Cassia (a fragrant spice)",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Job 42:14 — the second daughter born to Job after his restoration."
+  },
+  {
+    "slug": "leah",
+    "name": "Leah",
+    "gender": "girl",
+    "meaning": "Weary (meaning debated)",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Genesis 29:16 — the first wife of Jacob and mother of six tribes."
+  },
+  {
+    "slug": "lois",
+    "name": "Lois",
+    "gender": "girl",
+    "meaning": "Better; desirable (meaning debated)",
+    "origin": "Greek",
+    "biblical": true,
+    "reference": "2 Timothy 1:5 — the grandmother of Timothy, known for her faith."
+  },
+  {
+    "slug": "martha",
+    "name": "Martha",
+    "gender": "girl",
+    "meaning": "Lady; mistress",
+    "origin": "Aramaic",
+    "biblical": true,
+    "reference": "Luke 10:38 — the sister of Mary and Lazarus who welcomed Jesus into her home."
+  },
+  {
+    "slug": "mary",
+    "name": "Mary",
+    "gender": "girl",
+    "meaning": "Beloved; wished-for child (meaning debated)",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Luke 1:27 — the mother of Jesus."
+  },
+  {
+    "slug": "miriam",
+    "name": "Miriam",
+    "gender": "girl",
+    "meaning": "Wished-for child; bitter (meaning debated)",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Exodus 15:20 — the prophetess and sister of Moses."
+  },
+  {
+    "slug": "naomi",
+    "name": "Naomi",
+    "gender": "girl",
+    "meaning": "Pleasantness",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Ruth 1:2 — the mother-in-law of Ruth."
+  },
+  {
+    "slug": "rachel",
+    "name": "Rachel",
+    "gender": "girl",
+    "meaning": "Ewe",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Genesis 29:16 — the beloved wife of Jacob and mother of Joseph and Benjamin."
+  },
+  {
+    "slug": "rebecca",
+    "name": "Rebecca",
+    "gender": "girl",
+    "meaning": "To bind; captivating (meaning debated)",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Genesis 24:15 — the wife of Isaac and mother of Jacob and Esau."
+  },
+  {
+    "slug": "rhoda",
+    "name": "Rhoda",
+    "gender": "girl",
+    "meaning": "Rose",
+    "origin": "Greek",
+    "biblical": true,
+    "reference": "Acts 12:13 — the servant girl who answered the door when Peter knocked."
+  },
+  {
+    "slug": "ruth",
+    "name": "Ruth",
+    "gender": "girl",
+    "meaning": "Compassionate friend (meaning debated)",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Book of Ruth — the loyal daughter-in-law of Naomi and ancestor of King David."
+  },
+  {
+    "slug": "salome",
+    "name": "Salome",
+    "gender": "girl",
+    "meaning": "Peace",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Mark 15:40 — a woman who followed Jesus and was present at the cross."
+  },
+  {
+    "slug": "sarah",
+    "name": "Sarah",
+    "gender": "girl",
+    "meaning": "Princess",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Genesis 17:15 — the wife of Abraham and mother of Isaac."
+  },
+  {
+    "slug": "susanna",
+    "name": "Susanna",
+    "gender": "girl",
+    "meaning": "Lily",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Luke 8:3 — one of the women who supported Jesus' ministry."
+  },
+  {
+    "slug": "tamar",
+    "name": "Tamar",
+    "gender": "girl",
+    "meaning": "Palm tree",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Genesis 38:6 — the daughter-in-law of Judah, named in the genealogy of Jesus."
+  },
+  {
+    "slug": "tirzah",
+    "name": "Tirzah",
+    "gender": "girl",
+    "meaning": "Delight; pleasing",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Numbers 26:33 — a daughter of Zelophehad."
+  },
+  {
+    "slug": "zipporah",
+    "name": "Zipporah",
+    "gender": "girl",
+    "meaning": "Bird",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Exodus 2:21 — the wife of Moses."
+  },
+  {
+    "slug": "zillah",
+    "name": "Zillah",
+    "gender": "girl",
+    "meaning": "Shade",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Genesis 4:19 — a wife of Lamech."
+  },
+  {
+    "slug": "rahab",
+    "name": "Rahab",
+    "gender": "girl",
+    "meaning": "Broad; spacious (meaning debated)",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Joshua 2:1 — the woman of Jericho praised for her faith in Hebrews 11:31."
+  },
+  {
+    "slug": "hephzibah",
+    "name": "Hephzibah",
+    "gender": "girl",
+    "meaning": "My delight is in her",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Isaiah 62:4 — a name given to Jerusalem to show God's delight."
+  },
+  {
+    "slug": "michal",
+    "name": "Michal",
+    "gender": "girl",
+    "meaning": "Who is like God?",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "1 Samuel 18:20 — the daughter of Saul and wife of David."
+  },
+  {
+    "slug": "naamah",
+    "name": "Naamah",
+    "gender": "girl",
+    "meaning": "Pleasant",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Genesis 4:22 — a sister of Tubal-cain."
+  },
+  {
+    "slug": "shiphrah",
+    "name": "Shiphrah",
+    "gender": "girl",
+    "meaning": "Beautiful",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Exodus 1:15 — a Hebrew midwife who feared God and saved the baby boys."
+  },
+  {
+    "slug": "mara",
+    "name": "Mara",
+    "gender": "girl",
+    "meaning": "Bitter",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Ruth 1:20 — the name Naomi took in her grief."
+  },
+  {
+    "slug": "eunice",
+    "name": "Eunice",
+    "gender": "girl",
+    "meaning": "Good victory",
+    "origin": "Greek",
+    "biblical": true,
+    "reference": "2 Timothy 1:5 — the mother of Timothy, praised for her sincere faith."
+  },
+  {
+    "slug": "priscilla",
+    "name": "Priscilla",
+    "gender": "girl",
+    "meaning": "Ancient; venerable",
+    "origin": "Latin",
+    "biblical": true,
+    "reference": "Acts 18:2 — the coworker of Paul who taught alongside her husband Aquila."
+  },
+  {
+    "slug": "lydia",
+    "name": "Lydia",
+    "gender": "girl",
+    "meaning": "From Lydia",
+    "origin": "Greek",
+    "biblical": true,
+    "reference": "Acts 16:14 — the seller of purple cloth and first European convert."
+  },
+  {
+    "slug": "phoebe",
+    "name": "Phoebe",
+    "gender": "girl",
+    "meaning": "Bright; radiant",
+    "origin": "Greek",
+    "biblical": true,
+    "reference": "Romans 16:1 — a servant of the church at Cenchreae commended by Paul."
+  },
+  {
+    "slug": "dorcas",
+    "name": "Dorcas",
+    "gender": "girl",
+    "meaning": "Gazelle",
+    "origin": "Greek",
+    "biblical": true,
+    "reference": "Acts 9:36 — the disciple in Joppa known for her good works."
+  },
+  {
+    "slug": "tabitha",
+    "name": "Tabitha",
+    "gender": "girl",
+    "meaning": "Gazelle",
+    "origin": "Aramaic",
+    "biblical": true,
+    "reference": "Acts 9:36 — the Aramaic name of Dorcas, raised to life by Peter."
+  },
+  {
+    "slug": "elizabeth",
+    "name": "Elizabeth",
+    "gender": "girl",
+    "meaning": "My God is an oath",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Luke 1:5 — the mother of John the Baptist."
+  },
+  {
+    "slug": "joanna",
+    "name": "Joanna",
+    "gender": "girl",
+    "meaning": "God is gracious",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Luke 8:3 — a follower of Jesus who supported his ministry."
+  },
+  {
+    "slug": "chloe",
+    "name": "Chloe",
+    "gender": "girl",
+    "meaning": "Green shoot; blooming",
+    "origin": "Greek",
+    "biblical": true,
+    "reference": "1 Corinthians 1:11 — a woman whose household reported news to Paul."
+  },
+  {
+    "slug": "claudia",
+    "name": "Claudia",
+    "gender": "girl",
+    "meaning": "Of the Claudian clan",
+    "origin": "Latin",
+    "biblical": true,
+    "reference": "2 Timothy 4:21 — a believer who sent greetings through Paul."
+  },
+  {
+    "slug": "julia",
+    "name": "Julia",
+    "gender": "girl",
+    "meaning": "Youthful",
+    "origin": "Latin",
+    "biblical": true,
+    "reference": "Romans 16:15 — a believer greeted by Paul."
+  },
+  {
+    "slug": "junia",
+    "name": "Junia",
+    "gender": "girl",
+    "meaning": "Youthful (Latin clan name)",
+    "origin": "Latin",
+    "biblical": true,
+    "reference": "Romans 16:7 — a believer Paul called notable among the apostles."
+  },
+  {
+    "slug": "candace",
+    "name": "Candace",
+    "gender": "girl",
+    "meaning": "Queen mother",
+    "origin": "Ethiopian",
+    "biblical": true,
+    "reference": "Acts 8:27 — the title of the queen served by the Ethiopian official."
+  },
+  {
+    "slug": "magdalene",
+    "name": "Magdalene",
+    "gender": "girl",
+    "meaning": "From Magdala",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Luke 8:2 — Mary Magdalene, the first to see the risen Jesus."
+  },
+  {
+    "slug": "bethany",
+    "name": "Bethany",
+    "gender": "girl",
+    "meaning": "House of figs (meaning debated)",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "John 11:1 — the village of Mary, Martha and Lazarus."
+  },
+  {
+    "slug": "maria",
+    "name": "Maria",
+    "gender": "girl",
+    "meaning": "Beloved; wished-for child (meaning debated)",
+    "origin": "Latin",
+    "biblical": true,
+    "reference": "Latin form of Mary, the mother of Jesus (Luke 1:27)."
+  },
+  {
+    "slug": "bernice",
+    "name": "Bernice",
+    "gender": "girl",
+    "meaning": "Bringer of victory",
+    "origin": "Greek",
+    "biblical": true,
+    "reference": "Acts 25:13 — the sister of King Agrippa who heard Paul."
+  },
+  {
+    "slug": "sharon",
+    "name": "Sharon",
+    "gender": "girl",
+    "meaning": "The plain; flat land",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Song of Solomon 2:1 — 'rose of Sharon', a fertile coastal plain."
+  },
+  {
+    "slug": "carmel",
+    "name": "Carmel",
+    "gender": "girl",
+    "meaning": "Garden-land; orchard",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "1 Kings 18:19 — Mount Carmel, where Elijah met the prophets of Baal."
+  },
+  {
+    "slug": "gloria",
+    "name": "Gloria",
+    "gender": "girl",
+    "meaning": "Glory",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "From 'Gloria in excelsis Deo', the angels' song in Luke 2:14."
+  },
+  {
+    "slug": "susan",
+    "name": "Susan",
+    "gender": "girl",
+    "meaning": "Lily",
+    "origin": "Hebrew",
+    "biblical": false,
+    "reference": "An English form of Susanna, the follower of Jesus in Luke 8:3."
+  },
+  {
+    "slug": "anne",
+    "name": "Anne",
+    "gender": "girl",
+    "meaning": "Grace",
+    "origin": "Hebrew",
+    "biblical": false,
+    "reference": "Saint Anne, traditionally the mother of the Virgin Mary (not named in the Bible)."
+  },
+  {
+    "slug": "isabella",
+    "name": "Isabella",
+    "gender": "girl",
+    "meaning": "My God is an oath",
+    "origin": "Hebrew",
+    "biblical": false,
+    "reference": "An Italian form of Elizabeth, the mother of John the Baptist."
+  },
+  {
+    "slug": "lily",
+    "name": "Lily",
+    "gender": "girl",
+    "meaning": "Lily",
+    "origin": "English",
+    "biblical": false,
+    "reference": "The lily is a Christian symbol of purity; Jesus speaks of the lilies of the field in Matthew 6:28."
+  },
+  {
+    "slug": "gabriella",
+    "name": "Gabriella",
+    "gender": "girl",
+    "meaning": "God is my strength",
+    "origin": "Hebrew",
+    "biblical": false,
+    "reference": "A feminine form of Gabriel, the angel of the Annunciation."
+  },
+  {
+    "slug": "michaela",
+    "name": "Michaela",
+    "gender": "girl",
+    "meaning": "Who is like God?",
+    "origin": "Hebrew",
+    "biblical": false,
+    "reference": "A feminine form of Michael, the archangel."
+  },
+  {
+    "slug": "danielle",
+    "name": "Danielle",
+    "gender": "girl",
+    "meaning": "God is my judge",
+    "origin": "Hebrew",
+    "biblical": false,
+    "reference": "A French feminine form of Daniel, the prophet."
+  },
+  {
+    "slug": "josephine",
+    "name": "Josephine",
+    "gender": "girl",
+    "meaning": "He will add",
+    "origin": "Hebrew",
+    "biblical": false,
+    "reference": "A feminine form of Joseph; also Saint Josephine Bakhita."
+  },
+  {
+    "slug": "johanna",
+    "name": "Johanna",
+    "gender": "girl",
+    "meaning": "God is gracious",
+    "origin": "Hebrew",
+    "biblical": false,
+    "reference": "A Germanic form of Joanna, the follower of Jesus in Luke 8:3."
+  },
+  {
+    "slug": "hope",
+    "name": "Hope",
+    "gender": "girl",
+    "meaning": "Hope",
+    "origin": "English",
+    "biblical": false,
+    "reference": "One of the three Christian virtues named in 1 Corinthians 13:13."
+  },
+  {
+    "slug": "faith",
+    "name": "Faith",
+    "gender": "girl",
+    "meaning": "Trust; belief",
+    "origin": "English",
+    "biblical": false,
+    "reference": "One of the three Christian virtues named in 1 Corinthians 13:13."
+  },
+  {
+    "slug": "grace",
+    "name": "Grace",
+    "gender": "girl",
+    "meaning": "God's free gift; favor",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "A central word of the faith, as in Ephesians 2:8."
+  },
+  {
+    "slug": "charity",
+    "name": "Charity",
+    "gender": "girl",
+    "meaning": "Love; benevolence",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "The greatest of the Christian virtues in 1 Corinthians 13."
+  },
+  {
+    "slug": "joy",
+    "name": "Joy",
+    "gender": "girl",
+    "meaning": "Joy",
+    "origin": "English",
+    "biblical": false,
+    "reference": "Named among the fruit of the Spirit in Galatians 5:22."
+  },
+  {
+    "slug": "mercy",
+    "name": "Mercy",
+    "gender": "girl",
+    "meaning": "Compassion",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "Jesus teaches 'be merciful' in Luke 6:36."
+  },
+  {
+    "slug": "prudence",
+    "name": "Prudence",
+    "gender": "girl",
+    "meaning": "Good judgment",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "One of the four classical virtues, often praised in Proverbs."
+  },
+  {
+    "slug": "constance",
+    "name": "Constance",
+    "gender": "girl",
+    "meaning": "Steadfast",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "A virtue name meaning steadfastness, used by many Christian families."
+  },
+  {
+    "slug": "felicity",
+    "name": "Felicity",
+    "gender": "girl",
+    "meaning": "Happiness",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "Saint Felicity, an early martyr who died with Saint Perpetua."
+  },
+  {
+    "slug": "verity",
+    "name": "Verity",
+    "gender": "girl",
+    "meaning": "Truth",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "A virtue name recalling John 14:6, 'I am the way, the truth and the life'."
+  },
+  {
+    "slug": "blessing",
+    "name": "Blessing",
+    "gender": "girl",
+    "meaning": "Divine favor",
+    "origin": "English",
+    "biblical": false,
+    "reference": "Genesis 12:2 — God promises to bless Abraham and make him a blessing."
+  },
+  {
+    "slug": "trinity",
+    "name": "Trinity",
+    "gender": "girl",
+    "meaning": "Triad",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "Named for the Holy Trinity, the Christian teaching of one God in three persons."
+  },
+  {
+    "slug": "evangeline",
+    "name": "Evangeline",
+    "gender": "girl",
+    "meaning": "Bearer of good news",
+    "origin": "Greek",
+    "biblical": false,
+    "reference": "From the Greek word for 'good news', the root of 'Gospel'."
+  },
+  {
+    "slug": "angelina",
+    "name": "Angelina",
+    "gender": "girl",
+    "meaning": "Little angel; messenger",
+    "origin": "Greek",
+    "biblical": false,
+    "reference": "From 'angel', the messengers of God throughout the Bible."
+  },
+  {
+    "slug": "angela",
+    "name": "Angela",
+    "gender": "girl",
+    "meaning": "Angel; messenger",
+    "origin": "Greek",
+    "biblical": false,
+    "reference": "Saint Angela Merici, founder of the Ursulines."
+  },
+  {
+    "slug": "christina",
+    "name": "Christina",
+    "gender": "girl",
+    "meaning": "Follower of Christ",
+    "origin": "Greek",
+    "biblical": false,
+    "reference": "Saint Christina, an early martyr."
+  },
+  {
+    "slug": "theodora",
+    "name": "Theodora",
+    "gender": "girl",
+    "meaning": "Gift of God",
+    "origin": "Greek",
+    "biblical": false,
+    "reference": "Saint Theodora, an early martyr; several saints bear the name."
+  },
+  {
+    "slug": "dorothy",
+    "name": "Dorothy",
+    "gender": "girl",
+    "meaning": "Gift of God",
+    "origin": "Greek",
+    "biblical": false,
+    "reference": "Saint Dorothy of Caesarea, a young martyr."
+  },
+  {
+    "slug": "agnes",
+    "name": "Agnes",
+    "gender": "girl",
+    "meaning": "Pure; holy",
+    "origin": "Greek",
+    "biblical": false,
+    "reference": "Saint Agnes, a young Roman martyr."
+  },
+  {
+    "slug": "agatha",
+    "name": "Agatha",
+    "gender": "girl",
+    "meaning": "Good; kind",
+    "origin": "Greek",
+    "biblical": false,
+    "reference": "Saint Agatha of Sicily, a martyr of the 3rd century."
+  },
+  {
+    "slug": "anastasia",
+    "name": "Anastasia",
+    "gender": "girl",
+    "meaning": "Resurrection",
+    "origin": "Greek",
+    "biblical": false,
+    "reference": "Saint Anastasia, an early martyr honored in East and West."
+  },
+  {
+    "slug": "bernadette",
+    "name": "Bernadette",
+    "gender": "girl",
+    "meaning": "Brave as a bear",
+    "origin": "Germanic",
+    "biblical": false,
+    "reference": "Saint Bernadette of Lourdes, to whom Mary appeared in 1858."
+  },
+  {
+    "slug": "bridget",
+    "name": "Bridget",
+    "gender": "girl",
+    "meaning": "Exalted one",
+    "origin": "Irish",
+    "biblical": false,
+    "reference": "Saint Brigid of Kildare, one of the patron saints of Ireland."
+  },
+  {
+    "slug": "catherine",
+    "name": "Catherine",
+    "gender": "girl",
+    "meaning": "Pure",
+    "origin": "Greek",
+    "biblical": false,
+    "reference": "Saint Catherine of Alexandria and Saint Catherine of Siena."
+  },
+  {
+    "slug": "cecilia",
+    "name": "Cecilia",
+    "gender": "girl",
+    "meaning": "Of the Caecilian family",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "Saint Cecilia, the patron saint of music."
+  },
+  {
+    "slug": "clare",
+    "name": "Clare",
+    "gender": "girl",
+    "meaning": "Bright; clear",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "Saint Clare of Assisi, a friend of Saint Francis."
+  },
+  {
+    "slug": "clara",
+    "name": "Clara",
+    "gender": "girl",
+    "meaning": "Bright; clear",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "A Latin form of Clare, after Saint Clare of Assisi."
+  },
+  {
+    "slug": "helena",
+    "name": "Helena",
+    "gender": "girl",
+    "meaning": "Torch; bright light",
+    "origin": "Greek",
+    "biblical": false,
+    "reference": "Saint Helena, the mother of Emperor Constantine."
+  },
+  {
+    "slug": "elena",
+    "name": "Elena",
+    "gender": "girl",
+    "meaning": "Torch; bright light",
+    "origin": "Greek",
+    "biblical": false,
+    "reference": "A Spanish and Italian form of Helena, after Saint Helena."
+  },
+  {
+    "slug": "frances",
+    "name": "Frances",
+    "gender": "girl",
+    "meaning": "Free one",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "Saint Frances of Rome and the feminine form of Francis."
+  },
+  {
+    "slug": "gertrude",
+    "name": "Gertrude",
+    "gender": "girl",
+    "meaning": "Spear of strength",
+    "origin": "Germanic",
+    "biblical": false,
+    "reference": "Saint Gertrude the Great, a medieval mystic and writer."
+  },
+  {
+    "slug": "joan",
+    "name": "Joan",
+    "gender": "girl",
+    "meaning": "God is gracious",
+    "origin": "Hebrew",
+    "biblical": false,
+    "reference": "Saint Joan of Arc, the young French heroine and martyr."
+  },
+  {
+    "slug": "lucy",
+    "name": "Lucy",
+    "gender": "girl",
+    "meaning": "Light",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "Saint Lucy of Syracuse, a martyr whose feast day celebrates light."
+  },
+  {
+    "slug": "lucia",
+    "name": "Lucia",
+    "gender": "girl",
+    "meaning": "Light",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "The Latin and Italian form of Lucy, after Saint Lucy."
+  },
+  {
+    "slug": "margaret",
+    "name": "Margaret",
+    "gender": "girl",
+    "meaning": "Pearl",
+    "origin": "Greek",
+    "biblical": false,
+    "reference": "Saint Margaret of Antioch and Saint Margaret of Scotland."
+  },
+  {
+    "slug": "monica",
+    "name": "Monica",
+    "gender": "girl",
+    "meaning": "Uncertain; possibly 'advisor'",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "Saint Monica, the mother of Saint Augustine, known for her prayers."
+  },
+  {
+    "slug": "perpetua",
+    "name": "Perpetua",
+    "gender": "girl",
+    "meaning": "Everlasting",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "Saint Perpetua, a young martyr of Carthage in the 3rd century."
+  },
+  {
+    "slug": "rita",
+    "name": "Rita",
+    "gender": "girl",
+    "meaning": "Pearl",
+    "origin": "Italian",
+    "biblical": false,
+    "reference": "Saint Rita of Cascia, known as a patron of hopeless causes."
+  },
+  {
+    "slug": "rose",
+    "name": "Rose",
+    "gender": "girl",
+    "meaning": "Rose",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "Saint Rose of Lima, the first canonized saint of the Americas."
+  },
+  {
+    "slug": "teresa",
+    "name": "Teresa",
+    "gender": "girl",
+    "meaning": "Harvester (meaning uncertain)",
+    "origin": "Greek",
+    "biblical": false,
+    "reference": "Saint Teresa of Avila and Saint Teresa of Calcutta."
+  },
+  {
+    "slug": "veronica",
+    "name": "Veronica",
+    "gender": "girl",
+    "meaning": "True image; bearer of victory",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "Saint Veronica, who by tradition wiped the face of Jesus on the road to Calvary."
+  },
+  {
+    "slug": "victoria",
+    "name": "Victoria",
+    "gender": "girl",
+    "meaning": "Victory",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "Saint Victoria, an early martyr."
+  },
+  {
+    "slug": "ursula",
+    "name": "Ursula",
+    "gender": "girl",
+    "meaning": "Little bear",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "Saint Ursula, a legendary martyr honored across Europe."
+  },
+  {
+    "slug": "hildegard",
+    "name": "Hildegard",
+    "gender": "girl",
+    "meaning": "Battle guardian",
+    "origin": "Germanic",
+    "biblical": false,
+    "reference": "Saint Hildegard of Bingen, a medieval abbess, composer and writer."
+  },
+  {
+    "slug": "edith",
+    "name": "Edith",
+    "gender": "girl",
+    "meaning": "Prosperity in war",
+    "origin": "Old English",
+    "biblical": false,
+    "reference": "Saint Edith Stein, a philosopher and martyr; also Saint Edith of Wilton."
+  },
+  {
+    "slug": "louise",
+    "name": "Louise",
+    "gender": "girl",
+    "meaning": "Renowned warrior",
+    "origin": "Germanic",
+    "biblical": false,
+    "reference": "Saint Louise de Marillac, who served the poor and sick."
+  },
+  {
+    "slug": "sophia",
+    "name": "Sophia",
+    "gender": "girl",
+    "meaning": "Wisdom",
+    "origin": "Greek",
+    "biblical": false,
+    "reference": "Wisdom is praised throughout Proverbs; also Saint Sophia and her daughters."
+  },
+  {
+    "slug": "zoe",
+    "name": "Zoe",
+    "gender": "girl",
+    "meaning": "Life",
+    "origin": "Greek",
+    "biblical": false,
+    "reference": "Saint Zoe of Rome, an early martyr; 'zoe' is the Greek word for life in the Gospels."
+  },
+  {
+    "slug": "beatrice",
+    "name": "Beatrice",
+    "gender": "girl",
+    "meaning": "She who brings happiness",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "Saint Beatrice, an early Roman martyr."
+  },
+  {
+    "slug": "thecla",
+    "name": "Thecla",
+    "gender": "girl",
+    "meaning": "Glory of God",
+    "origin": "Greek",
+    "biblical": false,
+    "reference": "Saint Thecla, remembered in early tradition as a follower of Paul."
+  },
+  {
+    "slug": "marcella",
+    "name": "Marcella",
+    "gender": "girl",
+    "meaning": "Little warrior",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "Saint Marcella of Rome, a devoted student of Scripture."
+  },
+  {
+    "slug": "paula",
+    "name": "Paula",
+    "gender": "girl",
+    "meaning": "Small; humble",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "Saint Paula of Rome, a friend and coworker of Saint Jerome."
+  },
+  {
+    "slug": "eulalia",
+    "name": "Eulalia",
+    "gender": "girl",
+    "meaning": "Well-spoken",
+    "origin": "Greek",
+    "biblical": false,
+    "reference": "Saint Eulalia of Barcelona, a young martyr."
+  },
+  {
+    "slug": "justina",
+    "name": "Justina",
+    "gender": "girl",
+    "meaning": "Just; fair",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "Saint Justina of Padua, an early martyr."
+  },
+  {
+    "slug": "petra",
+    "name": "Petra",
+    "gender": "girl",
+    "meaning": "Rock",
+    "origin": "Greek",
+    "biblical": false,
+    "reference": "A feminine form of Peter, the rock of Matthew 16:18."
+  },
+  {
+    "slug": "philippa",
+    "name": "Philippa",
+    "gender": "girl",
+    "meaning": "Lover of horses",
+    "origin": "Greek",
+    "biblical": false,
+    "reference": "A feminine form of Philip; see Acts 21:9 for Philip's prophesying daughters."
+  },
+  {
+    "slug": "stephanie",
+    "name": "Stephanie",
+    "gender": "girl",
+    "meaning": "Crown",
+    "origin": "Greek",
+    "biblical": false,
+    "reference": "A feminine form of Stephen, the first Christian martyr (Acts 6–7)."
+  },
+  {
+    "slug": "alexandra",
+    "name": "Alexandra",
+    "gender": "girl",
+    "meaning": "Defender of men",
+    "origin": "Greek",
+    "biblical": false,
+    "reference": "A feminine form of Alexander; Saint Alexandra was an early martyr."
+  },
+  {
+    "slug": "andrea",
+    "name": "Andrea",
+    "gender": "girl",
+    "meaning": "Brave; courageous",
+    "origin": "Greek",
+    "biblical": false,
+    "reference": "A feminine form of Andrew, the apostle (John 1:40)."
+  },
+  {
+    "slug": "benedicta",
+    "name": "Benedicta",
+    "gender": "girl",
+    "meaning": "Blessed",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "A feminine form of Benedict, after Saint Benedict of Nursia."
+  },
+  {
+    "slug": "clementine",
+    "name": "Clementine",
+    "gender": "girl",
+    "meaning": "Merciful",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "A feminine form of Clement, a coworker of Paul in Philippians 4:3."
+  },
+  {
+    "slug": "matilda",
+    "name": "Matilda",
+    "gender": "girl",
+    "meaning": "Mighty in battle",
+    "origin": "Germanic",
+    "biblical": false,
+    "reference": "Saint Matilda of Ringelheim, a queen known for her charity."
+  },
+  {
+    "slug": "natalie",
+    "name": "Natalie",
+    "gender": "girl",
+    "meaning": "Christmas Day",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "From the Latin for 'birthday', traditionally given to children born at Christmas."
+  },
+  {
+    "slug": "noelle",
+    "name": "Noelle",
+    "gender": "girl",
+    "meaning": "Christmas",
+    "origin": "French",
+    "biblical": false,
+    "reference": "The French word for Christmas, the celebration of Jesus' birth."
+  },
+  {
+    "slug": "epiphany",
+    "name": "Epiphany",
+    "gender": "girl",
+    "meaning": "Manifestation; appearance",
+    "origin": "Greek",
+    "biblical": false,
+    "reference": "The feast celebrating the visit of the Magi to Jesus (Matthew 2)."
+  },
+  {
+    "slug": "pilar",
+    "name": "Pilar",
+    "gender": "girl",
+    "meaning": "Pillar",
+    "origin": "Spanish",
+    "biblical": false,
+    "reference": "Named for Our Lady of the Pillar in Zaragoza, Spain."
+  },
+  {
+    "slug": "dolores",
+    "name": "Dolores",
+    "gender": "girl",
+    "meaning": "Sorrows",
+    "origin": "Spanish",
+    "biblical": false,
+    "reference": "Named for Our Lady of Sorrows, honoring Mary's grief at the cross."
+  },
+  {
+    "slug": "mercedes",
+    "name": "Mercedes",
+    "gender": "girl",
+    "meaning": "Mercies",
+    "origin": "Spanish",
+    "biblical": false,
+    "reference": "Named for Our Lady of Mercy, a Marian title."
+  },
+  {
+    "slug": "consuelo",
+    "name": "Consuelo",
+    "gender": "girl",
+    "meaning": "Consolation",
+    "origin": "Spanish",
+    "biblical": false,
+    "reference": "Named for Our Lady of Consolation, a Marian title."
+  },
+  {
+    "slug": "esperanza",
+    "name": "Esperanza",
+    "gender": "girl",
+    "meaning": "Hope",
+    "origin": "Spanish",
+    "biblical": false,
+    "reference": "The Spanish word for hope, one of the three Christian virtues."
+  },
+  {
+    "slug": "rosario",
+    "name": "Rosario",
+    "gender": "girl",
+    "meaning": "Rosary",
+    "origin": "Spanish",
+    "biblical": false,
+    "reference": "Named for Our Lady of the Rosary, a Marian title."
+  },
+  {
+    "slug": "celeste",
+    "name": "Celeste",
+    "gender": "girl",
+    "meaning": "Heavenly",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "A name pointing to heaven, used among Christian families."
+  },
+  {
+    "slug": "seraphina",
+    "name": "Seraphina",
+    "gender": "girl",
+    "meaning": "Fiery; burning",
+    "origin": "Hebrew",
+    "biblical": false,
+    "reference": "From the seraphim, the angels who worship God in Isaiah 6:2."
+  },
+  {
+    "slug": "angelica",
+    "name": "Angelica",
+    "gender": "girl",
+    "meaning": "Angelic",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "From 'angel', the messengers of God throughout the Bible."
+  },
+  {
+    "slug": "pia",
+    "name": "Pia",
+    "gender": "girl",
+    "meaning": "Devout; pious",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "The feminine form of Pius, a name borne by several popes."
+  },
+  {
+    "slug": "genevieve",
+    "name": "Genevieve",
+    "gender": "girl",
+    "meaning": "Meaning debated; possibly 'woman of the race'",
+    "origin": "Celtic",
+    "biblical": false,
+    "reference": "Saint Genevieve, the patron saint of Paris."
+  },
+  {
+    "slug": "aurelia",
+    "name": "Aurelia",
+    "gender": "girl",
+    "meaning": "Golden",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "Saint Aurelia of Strasbourg, an early Christian woman."
+  },
+  {
+    "slug": "sabina",
+    "name": "Sabina",
+    "gender": "girl",
+    "meaning": "Sabine woman",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "Saint Sabina, a Roman martyr."
+  },
+  {
+    "slug": "flora",
+    "name": "Flora",
+    "gender": "girl",
+    "meaning": "Flower",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "Saint Flora of Córdoba, a 9th-century martyr."
+  }
+]

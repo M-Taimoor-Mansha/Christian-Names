@@ -1,0 +1,1352 @@
+[
+  {
+    "slug": "aaron",
+    "name": "Aaron",
+    "gender": "boy",
+    "meaning": "Exalted; mountain of strength (meaning debated)",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Exodus 4:14 — Moses' brother and Israel's first high priest."
+  },
+  {
+    "slug": "abel",
+    "name": "Abel",
+    "gender": "boy",
+    "meaning": "Breath",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Genesis 4:2 — the second son of Adam and Eve."
+  },
+  {
+    "slug": "abraham",
+    "name": "Abraham",
+    "gender": "boy",
+    "meaning": "Father of many nations",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Genesis 17:5 — God renames Abram and promises him many descendants."
+  },
+  {
+    "slug": "adam",
+    "name": "Adam",
+    "gender": "boy",
+    "meaning": "Man; of the earth",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Genesis 2:7 — the first man, formed from the ground."
+  },
+  {
+    "slug": "amos",
+    "name": "Amos",
+    "gender": "boy",
+    "meaning": "Carried; burden-bearer",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Book of Amos — a shepherd called to be a prophet."
+  },
+  {
+    "slug": "asher",
+    "name": "Asher",
+    "gender": "boy",
+    "meaning": "Happy; blessed",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Genesis 30:13 — a son of Jacob and ancestor of one of the twelve tribes."
+  },
+  {
+    "slug": "barak",
+    "name": "Barak",
+    "gender": "boy",
+    "meaning": "Lightning",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Judges 4:6 — the commander who fought alongside the judge Deborah."
+  },
+  {
+    "slug": "benjamin",
+    "name": "Benjamin",
+    "gender": "boy",
+    "meaning": "Son of the right hand",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Genesis 35:18 — the youngest son of Jacob."
+  },
+  {
+    "slug": "boaz",
+    "name": "Boaz",
+    "gender": "boy",
+    "meaning": "In him is strength (meaning debated)",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Book of Ruth — the kind landowner who married Ruth."
+  },
+  {
+    "slug": "caleb",
+    "name": "Caleb",
+    "gender": "boy",
+    "meaning": "Faithful; wholehearted",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Numbers 13:6 — one of the twelve spies who trusted God's promise."
+  },
+  {
+    "slug": "dan",
+    "name": "Dan",
+    "gender": "boy",
+    "meaning": "Judge",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Genesis 30:6 — a son of Jacob and ancestor of the tribe of Dan."
+  },
+  {
+    "slug": "daniel",
+    "name": "Daniel",
+    "gender": "boy",
+    "meaning": "God is my judge",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Book of Daniel — the prophet who stayed faithful in the lions' den."
+  },
+  {
+    "slug": "david",
+    "name": "David",
+    "gender": "boy",
+    "meaning": "Beloved",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "1 Samuel 16:13 — the shepherd boy who became king of Israel."
+  },
+  {
+    "slug": "eli",
+    "name": "Eli",
+    "gender": "boy",
+    "meaning": "Ascended; high",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "1 Samuel 1:9 — the priest at Shiloh who raised the young Samuel."
+  },
+  {
+    "slug": "eliezer",
+    "name": "Eliezer",
+    "gender": "boy",
+    "meaning": "My God is help",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Genesis 15:2 — the trusted servant of Abraham."
+  },
+  {
+    "slug": "elijah",
+    "name": "Elijah",
+    "gender": "boy",
+    "meaning": "My God is Yahweh",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "1 Kings 17:1 — the prophet who confronted the prophets of Baal."
+  },
+  {
+    "slug": "elisha",
+    "name": "Elisha",
+    "gender": "boy",
+    "meaning": "God is salvation",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "1 Kings 19:16 — the prophet chosen to succeed Elijah."
+  },
+  {
+    "slug": "enoch",
+    "name": "Enoch",
+    "gender": "boy",
+    "meaning": "Dedicated",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Genesis 5:24 — a man who walked faithfully with God."
+  },
+  {
+    "slug": "ephraim",
+    "name": "Ephraim",
+    "gender": "boy",
+    "meaning": "Doubly fruitful",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Genesis 41:52 — the younger son of Joseph."
+  },
+  {
+    "slug": "ethan",
+    "name": "Ethan",
+    "gender": "boy",
+    "meaning": "Strong; enduring",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "1 Kings 4:31 — a man renowned for his wisdom in Solomon's time."
+  },
+  {
+    "slug": "ezekiel",
+    "name": "Ezekiel",
+    "gender": "boy",
+    "meaning": "God strengthens",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Book of Ezekiel — the prophet of the vision of the dry bones."
+  },
+  {
+    "slug": "ezra",
+    "name": "Ezra",
+    "gender": "boy",
+    "meaning": "Help",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Book of Ezra — the priest and scribe who taught the law after the exile."
+  },
+  {
+    "slug": "gabriel",
+    "name": "Gabriel",
+    "gender": "boy",
+    "meaning": "God is my strength",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Luke 1:19 — the angel who announced the births of John and Jesus."
+  },
+  {
+    "slug": "gideon",
+    "name": "Gideon",
+    "gender": "boy",
+    "meaning": "Hewer; mighty warrior",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Judges 6:11 — the judge who delivered Israel from Midian."
+  },
+  {
+    "slug": "hezekiah",
+    "name": "Hezekiah",
+    "gender": "boy",
+    "meaning": "Yahweh strengthens",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "2 Kings 18:1 — the faithful king of Judah."
+  },
+  {
+    "slug": "hosea",
+    "name": "Hosea",
+    "gender": "boy",
+    "meaning": "Salvation",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Book of Hosea — the prophet who pictured God's faithful love."
+  },
+  {
+    "slug": "immanuel",
+    "name": "Immanuel",
+    "gender": "boy",
+    "meaning": "God is with us",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Isaiah 7:14 and Matthew 1:23 — the name given to the promised child."
+  },
+  {
+    "slug": "isaac",
+    "name": "Isaac",
+    "gender": "boy",
+    "meaning": "He laughs",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Genesis 21:3 — the promised son of Abraham and Sarah."
+  },
+  {
+    "slug": "isaiah",
+    "name": "Isaiah",
+    "gender": "boy",
+    "meaning": "Yahweh is salvation",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Book of Isaiah — the great prophet of hope and the coming Messiah."
+  },
+  {
+    "slug": "ishmael",
+    "name": "Ishmael",
+    "gender": "boy",
+    "meaning": "God hears",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Genesis 16:11 — the son of Abraham and Hagar."
+  },
+  {
+    "slug": "israel",
+    "name": "Israel",
+    "gender": "boy",
+    "meaning": "He struggles with God",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Genesis 32:28 — the name given to Jacob after he wrestled with God."
+  },
+  {
+    "slug": "jacob",
+    "name": "Jacob",
+    "gender": "boy",
+    "meaning": "Supplanter; holder of the heel",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Genesis 25:26 — the son of Isaac and father of the twelve tribes."
+  },
+  {
+    "slug": "jared",
+    "name": "Jared",
+    "gender": "boy",
+    "meaning": "Descent",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Genesis 5:15 — an ancestor in the line from Adam to Noah."
+  },
+  {
+    "slug": "jeremiah",
+    "name": "Jeremiah",
+    "gender": "boy",
+    "meaning": "Yahweh exalts",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Book of Jeremiah — the prophet known as the weeping prophet."
+  },
+  {
+    "slug": "jesse",
+    "name": "Jesse",
+    "gender": "boy",
+    "meaning": "Gift (meaning debated)",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "1 Samuel 16:1 — the father of King David."
+  },
+  {
+    "slug": "jethro",
+    "name": "Jethro",
+    "gender": "boy",
+    "meaning": "His excellence",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Exodus 3:1 — Moses' father-in-law and a priest of Midian."
+  },
+  {
+    "slug": "joel",
+    "name": "Joel",
+    "gender": "boy",
+    "meaning": "Yahweh is God",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Book of Joel — the prophet who foretold the outpouring of the Spirit."
+  },
+  {
+    "slug": "jonah",
+    "name": "Jonah",
+    "gender": "boy",
+    "meaning": "Dove",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Book of Jonah — the prophet sent to the city of Nineveh."
+  },
+  {
+    "slug": "jonathan",
+    "name": "Jonathan",
+    "gender": "boy",
+    "meaning": "Yahweh has given",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "1 Samuel 18:1 — the loyal friend of David."
+  },
+  {
+    "slug": "joseph",
+    "name": "Joseph",
+    "gender": "boy",
+    "meaning": "He will add",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Genesis 30:24 — Jacob's son; also the husband of Mary in Matthew 1."
+  },
+  {
+    "slug": "joshua",
+    "name": "Joshua",
+    "gender": "boy",
+    "meaning": "Yahweh is salvation",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Book of Joshua — the successor of Moses who led Israel into the promised land."
+  },
+  {
+    "slug": "josiah",
+    "name": "Josiah",
+    "gender": "boy",
+    "meaning": "Yahweh supports",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "2 Kings 22:1 — the young king of Judah who restored the worship of God."
+  },
+  {
+    "slug": "judah",
+    "name": "Judah",
+    "gender": "boy",
+    "meaning": "Praised",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Genesis 29:35 — a son of Jacob and ancestor of King David."
+  },
+  {
+    "slug": "levi",
+    "name": "Levi",
+    "gender": "boy",
+    "meaning": "Joined; attached",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Genesis 29:34 — a son of Jacob and ancestor of the priestly tribe."
+  },
+  {
+    "slug": "malachi",
+    "name": "Malachi",
+    "gender": "boy",
+    "meaning": "My messenger",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Book of Malachi — the last book of the Old Testament."
+  },
+  {
+    "slug": "manasseh",
+    "name": "Manasseh",
+    "gender": "boy",
+    "meaning": "Causing to forget",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Genesis 41:51 — the elder son of Joseph."
+  },
+  {
+    "slug": "micah",
+    "name": "Micah",
+    "gender": "boy",
+    "meaning": "Who is like Yahweh?",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Book of Micah — the prophet who called for justice, mercy and humility."
+  },
+  {
+    "slug": "michael",
+    "name": "Michael",
+    "gender": "boy",
+    "meaning": "Who is like God?",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Daniel 10:13 and Revelation 12:7 — the archangel and defender of God's people."
+  },
+  {
+    "slug": "moses",
+    "name": "Moses",
+    "gender": "boy",
+    "meaning": "Drawn out (of the water)",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Exodus 2:10 — the leader who brought Israel out of Egypt."
+  },
+  {
+    "slug": "nathan",
+    "name": "Nathan",
+    "gender": "boy",
+    "meaning": "He gave",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "2 Samuel 7:2 — the prophet who advised King David."
+  },
+  {
+    "slug": "nehemiah",
+    "name": "Nehemiah",
+    "gender": "boy",
+    "meaning": "Yahweh comforts",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Book of Nehemiah — the leader who rebuilt the walls of Jerusalem."
+  },
+  {
+    "slug": "noah",
+    "name": "Noah",
+    "gender": "boy",
+    "meaning": "Rest; comfort",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Genesis 5:29 — the man who built the ark."
+  },
+  {
+    "slug": "obadiah",
+    "name": "Obadiah",
+    "gender": "boy",
+    "meaning": "Servant of Yahweh",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Book of Obadiah — the shortest book of the Old Testament."
+  },
+  {
+    "slug": "raphael",
+    "name": "Raphael",
+    "gender": "boy",
+    "meaning": "God has healed",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Book of Tobit (deuterocanonical) — the angel who guides and heals."
+  },
+  {
+    "slug": "reuben",
+    "name": "Reuben",
+    "gender": "boy",
+    "meaning": "Behold, a son",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Genesis 29:32 — the firstborn son of Jacob."
+  },
+  {
+    "slug": "samson",
+    "name": "Samson",
+    "gender": "boy",
+    "meaning": "Sun; little sun",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Judges 13:24 — the judge known for his great strength."
+  },
+  {
+    "slug": "samuel",
+    "name": "Samuel",
+    "gender": "boy",
+    "meaning": "God has heard",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "1 Samuel 1:20 — the prophet and last judge of Israel."
+  },
+  {
+    "slug": "saul",
+    "name": "Saul",
+    "gender": "boy",
+    "meaning": "Asked for; prayed for",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "1 Samuel 9:2 — the first king of Israel; also the Hebrew name of Paul."
+  },
+  {
+    "slug": "seth",
+    "name": "Seth",
+    "gender": "boy",
+    "meaning": "Appointed",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Genesis 4:25 — the third son of Adam and Eve."
+  },
+  {
+    "slug": "simeon",
+    "name": "Simeon",
+    "gender": "boy",
+    "meaning": "He has heard",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Luke 2:25 — the devout man who blessed the infant Jesus."
+  },
+  {
+    "slug": "solomon",
+    "name": "Solomon",
+    "gender": "boy",
+    "meaning": "Peaceful",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "1 Kings 1:39 — David's son, known for his wisdom."
+  },
+  {
+    "slug": "tobias",
+    "name": "Tobias",
+    "gender": "boy",
+    "meaning": "God is good",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Book of Tobit (deuterocanonical) — the faithful son guided by an angel."
+  },
+  {
+    "slug": "uriah",
+    "name": "Uriah",
+    "gender": "boy",
+    "meaning": "Yahweh is my light",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "2 Samuel 11:3 — a loyal soldier in David's army."
+  },
+  {
+    "slug": "zechariah",
+    "name": "Zechariah",
+    "gender": "boy",
+    "meaning": "Yahweh remembers",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Book of Zechariah; also Luke 1:5, the father of John the Baptist."
+  },
+  {
+    "slug": "zephaniah",
+    "name": "Zephaniah",
+    "gender": "boy",
+    "meaning": "Yahweh has hidden; protected by Yahweh",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Book of Zephaniah — a prophet in the time of King Josiah."
+  },
+  {
+    "slug": "andrew",
+    "name": "Andrew",
+    "gender": "boy",
+    "meaning": "Manly; brave",
+    "origin": "Greek",
+    "biblical": true,
+    "reference": "John 1:40 — one of the twelve apostles and the brother of Peter."
+  },
+  {
+    "slug": "peter",
+    "name": "Peter",
+    "gender": "boy",
+    "meaning": "Rock",
+    "origin": "Greek",
+    "biblical": true,
+    "reference": "Matthew 16:18 — the apostle on whom Jesus said he would build his church."
+  },
+  {
+    "slug": "paul",
+    "name": "Paul",
+    "gender": "boy",
+    "meaning": "Small; humble",
+    "origin": "Latin",
+    "biblical": true,
+    "reference": "Acts 13:9 — the apostle to the Gentiles and author of many letters."
+  },
+  {
+    "slug": "james",
+    "name": "James",
+    "gender": "boy",
+    "meaning": "Supplanter (form of Jacob)",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Matthew 4:21 — an apostle and brother of John."
+  },
+  {
+    "slug": "john",
+    "name": "John",
+    "gender": "boy",
+    "meaning": "God is gracious",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Matthew 4:21 — the apostle and author of the Gospel of John."
+  },
+  {
+    "slug": "philip",
+    "name": "Philip",
+    "gender": "boy",
+    "meaning": "Lover of horses",
+    "origin": "Greek",
+    "biblical": true,
+    "reference": "John 1:43 — one of the twelve apostles."
+  },
+  {
+    "slug": "bartholomew",
+    "name": "Bartholomew",
+    "gender": "boy",
+    "meaning": "Son of Talmai",
+    "origin": "Aramaic",
+    "biblical": true,
+    "reference": "Matthew 10:3 — one of the twelve apostles."
+  },
+  {
+    "slug": "thomas",
+    "name": "Thomas",
+    "gender": "boy",
+    "meaning": "Twin",
+    "origin": "Aramaic",
+    "biblical": true,
+    "reference": "John 20:24 — the apostle who confessed Jesus as 'My Lord and my God'."
+  },
+  {
+    "slug": "matthew",
+    "name": "Matthew",
+    "gender": "boy",
+    "meaning": "Gift of God",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Matthew 9:9 — the tax collector who became an apostle and Gospel writer."
+  },
+  {
+    "slug": "simon",
+    "name": "Simon",
+    "gender": "boy",
+    "meaning": "He has heard",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Matthew 10:4 — the name of several followers of Jesus, including Simon Peter."
+  },
+  {
+    "slug": "stephen",
+    "name": "Stephen",
+    "gender": "boy",
+    "meaning": "Crown",
+    "origin": "Greek",
+    "biblical": true,
+    "reference": "Acts 6:5 — the first Christian martyr."
+  },
+  {
+    "slug": "timothy",
+    "name": "Timothy",
+    "gender": "boy",
+    "meaning": "Honoring God",
+    "origin": "Greek",
+    "biblical": true,
+    "reference": "Acts 16:1 — Paul's young coworker, addressed in 1 and 2 Timothy."
+  },
+  {
+    "slug": "titus",
+    "name": "Titus",
+    "gender": "boy",
+    "meaning": "Honorable",
+    "origin": "Latin",
+    "biblical": true,
+    "reference": "Titus 1:4 — Paul's trusted coworker, addressed in the Letter to Titus."
+  },
+  {
+    "slug": "luke",
+    "name": "Luke",
+    "gender": "boy",
+    "meaning": "Light-giving; man from Lucania",
+    "origin": "Greek",
+    "biblical": true,
+    "reference": "Colossians 4:14 — the physician and author of the Gospel of Luke and Acts."
+  },
+  {
+    "slug": "mark",
+    "name": "Mark",
+    "gender": "boy",
+    "meaning": "Warlike; dedicated to Mars",
+    "origin": "Latin",
+    "biblical": true,
+    "reference": "Acts 12:12 — also called John Mark, author of the Gospel of Mark."
+  },
+  {
+    "slug": "barnabas",
+    "name": "Barnabas",
+    "gender": "boy",
+    "meaning": "Son of encouragement",
+    "origin": "Aramaic",
+    "biblical": true,
+    "reference": "Acts 4:36 — the generous believer who supported Paul."
+  },
+  {
+    "slug": "silas",
+    "name": "Silas",
+    "gender": "boy",
+    "meaning": "Of the forest",
+    "origin": "Latin",
+    "biblical": true,
+    "reference": "Acts 15:22 — Paul's missionary companion."
+  },
+  {
+    "slug": "lazarus",
+    "name": "Lazarus",
+    "gender": "boy",
+    "meaning": "God has helped",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "John 11:1 — the friend of Jesus raised from the dead."
+  },
+  {
+    "slug": "nicodemus",
+    "name": "Nicodemus",
+    "gender": "boy",
+    "meaning": "Victory of the people",
+    "origin": "Greek",
+    "biblical": true,
+    "reference": "John 3:1 — the Pharisee who came to Jesus by night."
+  },
+  {
+    "slug": "cornelius",
+    "name": "Cornelius",
+    "gender": "boy",
+    "meaning": "Horn (meaning debated)",
+    "origin": "Latin",
+    "biblical": true,
+    "reference": "Acts 10:1 — the Roman centurion who was among the first Gentile believers."
+  },
+  {
+    "slug": "aquila",
+    "name": "Aquila",
+    "gender": "boy",
+    "meaning": "Eagle",
+    "origin": "Latin",
+    "biblical": true,
+    "reference": "Acts 18:2 — a tentmaker who worked with Paul, alongside his wife Priscilla."
+  },
+  {
+    "slug": "zacchaeus",
+    "name": "Zacchaeus",
+    "gender": "boy",
+    "meaning": "Pure; innocent",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Luke 19:2 — the tax collector who climbed a tree to see Jesus."
+  },
+  {
+    "slug": "philemon",
+    "name": "Philemon",
+    "gender": "boy",
+    "meaning": "Affectionate",
+    "origin": "Greek",
+    "biblical": true,
+    "reference": "Letter to Philemon — a believer addressed by Paul."
+  },
+  {
+    "slug": "onesimus",
+    "name": "Onesimus",
+    "gender": "boy",
+    "meaning": "Useful",
+    "origin": "Greek",
+    "biblical": true,
+    "reference": "Colossians 4:9 — a faithful brother, the subject of Paul's letter to Philemon."
+  },
+  {
+    "slug": "jason",
+    "name": "Jason",
+    "gender": "boy",
+    "meaning": "Healer",
+    "origin": "Greek",
+    "biblical": true,
+    "reference": "Acts 17:5 — a believer in Thessalonica who hosted Paul and Silas."
+  },
+  {
+    "slug": "jude",
+    "name": "Jude",
+    "gender": "boy",
+    "meaning": "Praised",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Letter of Jude — the author of the short New Testament letter."
+  },
+  {
+    "slug": "nathaniel",
+    "name": "Nathaniel",
+    "gender": "boy",
+    "meaning": "God has given",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "John 1:45 — a follower of Jesus, often identified with Bartholomew."
+  },
+  {
+    "slug": "matthias",
+    "name": "Matthias",
+    "gender": "boy",
+    "meaning": "Gift of God",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Acts 1:26 — chosen to take the place of Judas among the apostles."
+  },
+  {
+    "slug": "felix",
+    "name": "Felix",
+    "gender": "boy",
+    "meaning": "Happy; fortunate",
+    "origin": "Latin",
+    "biblical": true,
+    "reference": "Acts 23:24 — the Roman governor before whom Paul was tried."
+  },
+  {
+    "slug": "alexander",
+    "name": "Alexander",
+    "gender": "boy",
+    "meaning": "Defender of men",
+    "origin": "Greek",
+    "biblical": true,
+    "reference": "Acts 19:33 — a man named in Ephesus; a common name in the early church."
+  },
+  {
+    "slug": "clement",
+    "name": "Clement",
+    "gender": "boy",
+    "meaning": "Merciful",
+    "origin": "Latin",
+    "biblical": true,
+    "reference": "Philippians 4:3 — a coworker of Paul, remembered in the early church."
+  },
+  {
+    "slug": "emmanuel",
+    "name": "Emmanuel",
+    "gender": "boy",
+    "meaning": "God is with us",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "Matthew 1:23 — the Greek form of Immanuel, a name for Jesus."
+  },
+  {
+    "slug": "lucas",
+    "name": "Lucas",
+    "gender": "boy",
+    "meaning": "Light-giving",
+    "origin": "Greek",
+    "biblical": true,
+    "reference": "Philemon 1:24 (KJV) — a form of Luke, Paul's coworker."
+  },
+  {
+    "slug": "elias",
+    "name": "Elias",
+    "gender": "boy",
+    "meaning": "My God is Yahweh",
+    "origin": "Greek",
+    "biblical": true,
+    "reference": "Matthew 17:3 (KJV) — the Greek form of Elijah."
+  },
+  {
+    "slug": "jonas",
+    "name": "Jonas",
+    "gender": "boy",
+    "meaning": "Dove",
+    "origin": "Greek",
+    "biblical": true,
+    "reference": "Matthew 12:39 (KJV) — the Greek form of Jonah."
+  },
+  {
+    "slug": "jeremy",
+    "name": "Jeremy",
+    "gender": "boy",
+    "meaning": "Yahweh exalts",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "An English form of Jeremiah, the prophet of the Book of Jeremiah."
+  },
+  {
+    "slug": "zachary",
+    "name": "Zachary",
+    "gender": "boy",
+    "meaning": "Yahweh remembers",
+    "origin": "Hebrew",
+    "biblical": true,
+    "reference": "An English form of Zechariah, the father of John the Baptist (Luke 1)."
+  },
+  {
+    "slug": "christopher",
+    "name": "Christopher",
+    "gender": "boy",
+    "meaning": "Bearer of Christ",
+    "origin": "Greek",
+    "biblical": false,
+    "reference": "Saint Christopher, an early martyr remembered as the patron of travelers."
+  },
+  {
+    "slug": "christian",
+    "name": "Christian",
+    "gender": "boy",
+    "meaning": "Follower of Christ",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "The word 'Christian' first appears in Acts 11:26, in Antioch."
+  },
+  {
+    "slug": "joachim",
+    "name": "Joachim",
+    "gender": "boy",
+    "meaning": "Yahweh will establish",
+    "origin": "Hebrew",
+    "biblical": false,
+    "reference": "Tradition names Joachim as the father of the Virgin Mary; he is not named in the Bible."
+  },
+  {
+    "slug": "anthony",
+    "name": "Anthony",
+    "gender": "boy",
+    "meaning": "Of uncertain origin; often given as 'priceless'",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "Saint Anthony of Padua and Saint Anthony the Great, beloved saints."
+  },
+  {
+    "slug": "augustine",
+    "name": "Augustine",
+    "gender": "boy",
+    "meaning": "Majestic; venerable",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "Saint Augustine of Hippo, a great early church teacher."
+  },
+  {
+    "slug": "benedict",
+    "name": "Benedict",
+    "gender": "boy",
+    "meaning": "Blessed",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "Saint Benedict of Nursia, founder of Western monasticism."
+  },
+  {
+    "slug": "francis",
+    "name": "Francis",
+    "gender": "boy",
+    "meaning": "Frenchman; free one",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "Saint Francis of Assisi, known for his love of the poor and of creation."
+  },
+  {
+    "slug": "vincent",
+    "name": "Vincent",
+    "gender": "boy",
+    "meaning": "Conquering",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "Saint Vincent de Paul, known for his service to the poor."
+  },
+  {
+    "slug": "martin",
+    "name": "Martin",
+    "gender": "boy",
+    "meaning": "Of Mars; warlike",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "Saint Martin of Tours, remembered for sharing his cloak with a beggar."
+  },
+  {
+    "slug": "nicholas",
+    "name": "Nicholas",
+    "gender": "boy",
+    "meaning": "Victory of the people",
+    "origin": "Greek",
+    "biblical": false,
+    "reference": "Saint Nicholas of Myra, known for his generosity."
+  },
+  {
+    "slug": "george",
+    "name": "George",
+    "gender": "boy",
+    "meaning": "Farmer",
+    "origin": "Greek",
+    "biblical": false,
+    "reference": "Saint George, an early martyr honored across the Christian world."
+  },
+  {
+    "slug": "patrick",
+    "name": "Patrick",
+    "gender": "boy",
+    "meaning": "Nobleman",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "Saint Patrick, the missionary who brought the Gospel to Ireland."
+  },
+  {
+    "slug": "ignatius",
+    "name": "Ignatius",
+    "gender": "boy",
+    "meaning": "Fiery",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "Saint Ignatius of Antioch, an early bishop and martyr; also Ignatius of Loyola."
+  },
+  {
+    "slug": "basil",
+    "name": "Basil",
+    "gender": "boy",
+    "meaning": "Royal; kingly",
+    "origin": "Greek",
+    "biblical": false,
+    "reference": "Saint Basil the Great, a 4th-century bishop and teacher."
+  },
+  {
+    "slug": "gregory",
+    "name": "Gregory",
+    "gender": "boy",
+    "meaning": "Watchful; alert",
+    "origin": "Greek",
+    "biblical": false,
+    "reference": "Saint Gregory the Great, pope and church teacher."
+  },
+  {
+    "slug": "jerome",
+    "name": "Jerome",
+    "gender": "boy",
+    "meaning": "Sacred name",
+    "origin": "Greek",
+    "biblical": false,
+    "reference": "Saint Jerome, translator of the Bible into Latin."
+  },
+  {
+    "slug": "ambrose",
+    "name": "Ambrose",
+    "gender": "boy",
+    "meaning": "Immortal",
+    "origin": "Greek",
+    "biblical": false,
+    "reference": "Saint Ambrose, bishop of Milan and teacher of Augustine."
+  },
+  {
+    "slug": "cyril",
+    "name": "Cyril",
+    "gender": "boy",
+    "meaning": "Lordly",
+    "origin": "Greek",
+    "biblical": false,
+    "reference": "Saint Cyril, a missionary and church teacher; several saints bear the name."
+  },
+  {
+    "slug": "dominic",
+    "name": "Dominic",
+    "gender": "boy",
+    "meaning": "Belonging to the Lord",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "Saint Dominic, founder of the Order of Preachers."
+  },
+  {
+    "slug": "bernard",
+    "name": "Bernard",
+    "gender": "boy",
+    "meaning": "Brave as a bear",
+    "origin": "Germanic",
+    "biblical": false,
+    "reference": "Saint Bernard of Clairvaux, a medieval abbot and teacher."
+  },
+  {
+    "slug": "columba",
+    "name": "Columba",
+    "gender": "boy",
+    "meaning": "Dove",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "Saint Columba, the Irish missionary who founded the monastery on Iona."
+  },
+  {
+    "slug": "aidan",
+    "name": "Aidan",
+    "gender": "boy",
+    "meaning": "Little fire",
+    "origin": "Irish",
+    "biblical": false,
+    "reference": "Saint Aidan of Lindisfarne, a missionary to northern England."
+  },
+  {
+    "slug": "cuthbert",
+    "name": "Cuthbert",
+    "gender": "boy",
+    "meaning": "Famous and bright",
+    "origin": "Old English",
+    "biblical": false,
+    "reference": "Saint Cuthbert, a monk and bishop of Lindisfarne."
+  },
+  {
+    "slug": "xavier",
+    "name": "Xavier",
+    "gender": "boy",
+    "meaning": "New house",
+    "origin": "Basque",
+    "biblical": false,
+    "reference": "Saint Francis Xavier, a missionary to Asia."
+  },
+  {
+    "slug": "sebastian",
+    "name": "Sebastian",
+    "gender": "boy",
+    "meaning": "Venerable; revered",
+    "origin": "Greek",
+    "biblical": false,
+    "reference": "Saint Sebastian, an early Christian martyr."
+  },
+  {
+    "slug": "leo",
+    "name": "Leo",
+    "gender": "boy",
+    "meaning": "Lion",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "Saint Leo the Great, the pope who defended the faith in the 5th century."
+  },
+  {
+    "slug": "maximilian",
+    "name": "Maximilian",
+    "gender": "boy",
+    "meaning": "Greatest",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "Saint Maximilian Kolbe, who gave his life for another prisoner."
+  },
+  {
+    "slug": "valentine",
+    "name": "Valentine",
+    "gender": "boy",
+    "meaning": "Strong; healthy",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "Saint Valentine, an early Christian martyr."
+  },
+  {
+    "slug": "lawrence",
+    "name": "Lawrence",
+    "gender": "boy",
+    "meaning": "From Laurentum; crowned with laurel",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "Saint Lawrence, a deacon and martyr of the 3rd century."
+  },
+  {
+    "slug": "justin",
+    "name": "Justin",
+    "gender": "boy",
+    "meaning": "Just; fair",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "Saint Justin Martyr, an early defender of the faith."
+  },
+  {
+    "slug": "adrian",
+    "name": "Adrian",
+    "gender": "boy",
+    "meaning": "From Hadria",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "Saint Adrian and several popes of the same name."
+  },
+  {
+    "slug": "albert",
+    "name": "Albert",
+    "gender": "boy",
+    "meaning": "Noble; bright",
+    "origin": "Germanic",
+    "biblical": false,
+    "reference": "Saint Albert the Great, a scholar and teacher."
+  },
+  {
+    "slug": "edmund",
+    "name": "Edmund",
+    "gender": "boy",
+    "meaning": "Rich protector",
+    "origin": "Old English",
+    "biblical": false,
+    "reference": "Saint Edmund, the martyred king of East Anglia."
+  },
+  {
+    "slug": "edward",
+    "name": "Edward",
+    "gender": "boy",
+    "meaning": "Wealthy guardian",
+    "origin": "Old English",
+    "biblical": false,
+    "reference": "Saint Edward the Confessor, a pious king of England."
+  },
+  {
+    "slug": "bruno",
+    "name": "Bruno",
+    "gender": "boy",
+    "meaning": "Brown",
+    "origin": "Germanic",
+    "biblical": false,
+    "reference": "Saint Bruno, founder of the Carthusian order."
+  },
+  {
+    "slug": "damian",
+    "name": "Damian",
+    "gender": "boy",
+    "meaning": "To tame",
+    "origin": "Greek",
+    "biblical": false,
+    "reference": "Saint Damian, an early physician and martyr."
+  },
+  {
+    "slug": "gerard",
+    "name": "Gerard",
+    "gender": "boy",
+    "meaning": "Spear-brave",
+    "origin": "Germanic",
+    "biblical": false,
+    "reference": "Saint Gerard Majella, known for his care of the poor and sick."
+  },
+  {
+    "slug": "hilary",
+    "name": "Hilary",
+    "gender": "boy",
+    "meaning": "Cheerful",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "Saint Hilary of Poitiers, a 4th-century bishop and teacher."
+  },
+  {
+    "slug": "kevin",
+    "name": "Kevin",
+    "gender": "boy",
+    "meaning": "Handsome by birth",
+    "origin": "Irish",
+    "biblical": false,
+    "reference": "Saint Kevin of Glendalough, an Irish monk."
+  },
+  {
+    "slug": "kieran",
+    "name": "Kieran",
+    "gender": "boy",
+    "meaning": "Little dark one",
+    "origin": "Irish",
+    "biblical": false,
+    "reference": "Saint Kieran of Clonmacnoise, an early Irish abbot."
+  },
+  {
+    "slug": "raymond",
+    "name": "Raymond",
+    "gender": "boy",
+    "meaning": "Wise protector",
+    "origin": "Germanic",
+    "biblical": false,
+    "reference": "Saint Raymond of Penyafort, a medieval teacher and church lawyer."
+  },
+  {
+    "slug": "theodore",
+    "name": "Theodore",
+    "gender": "boy",
+    "meaning": "Gift of God",
+    "origin": "Greek",
+    "biblical": false,
+    "reference": "Saint Theodore, an early martyr; several saints bear the name."
+  },
+  {
+    "slug": "athanasius",
+    "name": "Athanasius",
+    "gender": "boy",
+    "meaning": "Immortal",
+    "origin": "Greek",
+    "biblical": false,
+    "reference": "Saint Athanasius, the 4th-century bishop who defended the Nicene faith."
+  },
+  {
+    "slug": "pius",
+    "name": "Pius",
+    "gender": "boy",
+    "meaning": "Devout; pious",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "The name of several popes and of Saint Pius X."
+  },
+  {
+    "slug": "eugene",
+    "name": "Eugene",
+    "gender": "boy",
+    "meaning": "Well-born",
+    "origin": "Greek",
+    "biblical": false,
+    "reference": "Saint Eugene, the name of several popes and saints."
+  },
+  {
+    "slug": "anselm",
+    "name": "Anselm",
+    "gender": "boy",
+    "meaning": "God's protection",
+    "origin": "Germanic",
+    "biblical": false,
+    "reference": "Saint Anselm of Canterbury, a theologian and archbishop."
+  },
+  {
+    "slug": "bonaventure",
+    "name": "Bonaventure",
+    "gender": "boy",
+    "meaning": "Good fortune",
+    "origin": "Latin",
+    "biblical": false,
+    "reference": "Saint Bonaventure, a medieval Franciscan teacher."
+  },
+  {
+    "slug": "bede",
+    "name": "Bede",
+    "gender": "boy",
+    "meaning": "Prayer",
+    "origin": "Old English",
+    "biblical": false,
+    "reference": "Saint Bede, the English monk known as the Venerable Bede."
+  }
+]
