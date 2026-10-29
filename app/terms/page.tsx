@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import LegalPage from "@/components/LegalPage";
 
 export const metadata: Metadata = {
   title: "Terms of Use",
@@ -8,50 +9,38 @@ export const metadata: Metadata = {
 
 export default function TermsPage() {
   return (
-    <main className="mx-auto max-w-3xl px-4 py-10">
-      <h1 className="text-3xl font-bold">Terms of Use</h1>
-      <p className="mt-2 text-sm text-gray-500">
-        Last updated: October 29, 2026
+    <LegalPage title="Terms of Use" updated="October 29, 2026">
+      <p>
+        By using Christian Names, you agree to these terms. If you do not agree,
+        please do not use the site.
       </p>
 
-      <div className="mt-6 space-y-4 text-gray-700">
-        <p>
-          By using Christian Names, you agree to these terms. If you do not
-          agree, please do not use the site.
-        </p>
+      <h2>Use of Content</h2>
+      <p>
+        The content on this site is provided for general information, education, and
+        personal reference. You may not scrape, copy, republish, or distribute large portions of
+        the dataset or website content without explicit written permission.
+      </p>
 
-        <h2 className="pt-2 text-xl font-semibold">Use of content</h2>
-        <p>
-          The content on this site is provided for general information and
-          personal use. You may not copy, republish or scrape large portions of
-          the site without our written permission.
-        </p>
+      <h2>Scholarly Accuracy &amp; Etymology</h2>
+      <p>
+        We strive to ensure that all name meanings, biblical citations, and linguistic origins are accurate and grounded in reputable academic references. However, onomastic interpretations and transliterations vary across historical traditions. The information is provided &ldquo;as is&rdquo; without warranties of any kind.
+      </p>
 
-        <h2 className="pt-2 text-xl font-semibold">Accuracy</h2>
-        <p>
-          We work to keep name meanings and origins accurate, but they can
-          differ between sources and languages. The information is provided
-          &ldquo;as is&rdquo; without any guarantee.
-        </p>
+      <h2>Advertising and External Links</h2>
+      <p>
+        Christian Names may display non-intrusive advertisements or provide links to third-party resources and voluntary support services. We do not endorse or assume liability for the content, privacy practices, or availability of external websites.
+      </p>
 
-        <h2 className="pt-2 text-xl font-semibold">Advertising and links</h2>
-        <p>
-          The site shows third-party ads and may link to external websites. We
-          are not responsible for their content.
-        </p>
+      <h2>Limitation of Liability</h2>
+      <p>
+        Under no circumstances shall the operators or contributors of Christian Names be liable for any direct, indirect, incidental, or consequential damages resulting from your use of the site or reliance on its content.
+      </p>
 
-        <h2 className="pt-2 text-xl font-semibold">Limitation of liability</h2>
-        <p>
-          We are not liable for any loss or damage arising from your use of this
-          site.
-        </p>
-
-        <h2 className="pt-2 text-xl font-semibold">Changes</h2>
-        <p>
-          We may update these terms at any time. Continued use of the site means
-          you accept the updated terms.
-        </p>
-      </div>
-    </main>
+      <h2>Modifications</h2>
+      <p>
+        We reserve the right to modify these terms at any time. Continued use of the website following any updates constitutes acceptance of the revised terms.
+      </p>
+    </LegalPage>
   );
 }

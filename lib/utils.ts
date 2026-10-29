@@ -24,10 +24,38 @@ export function filterByLetter(list: BabyName[], letter: string): BabyName[] {
 }
 
 export function getRelatedNames(current: BabyName, limit = 6): BabyName[] {
+  // If relatedNames are explicitly listed, prefer them
+  if (current.relatedNames && current.relatedNames.length > 0) {
+    const explicit = allNames.filter((n) =>
+      current.relatedNames?.includes(n.name) && n.slug !== current.slug
+    );
+    if (explicit.length > 0) return explicit.slice(0, limit);
+  }
+
   return getNamesByGender(current.gender)
     .filter((n) => n.slug !== current.slug)
     .filter((n) => n.origin === current.origin || n.name[0] === current.name[0])
     .slice(0, limit);
+}
+
+export function getBiblicalNames(limit?: number): BabyName[] {
+  const list = allNames.filter((n) => n.biblical);
+  return limit ? list.slice(0, limit) : list;
+}
+
+export function getNamesByOrigin(origin: string, limit?: number): BabyName[] {
+  const norm = origin.trim().toLowerCase();
+  const list = allNames.filter((n) => n.origin.toLowerCase().includes(norm));
+  return limit ? list.slice(0, limit) : list;
+}
+
+export function sanitizeUrl(url?: string): string {
+  if (!url) return "";
+  const trimmed = url.trim();
+  if (trimmed.startsWith("http://") || trimmed.startsWith("https://")) {
+    return trimmed;
+  }
+  return `https://${trimmed}`;
 }
 
 export const SITE_URL =

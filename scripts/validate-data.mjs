@@ -2,8 +2,8 @@ import fs from "node:fs";
 
 const read = (p) => JSON.parse(fs.readFileSync(p, "utf8"));
 const files = [
-  { path: "data/boy-names.json", gender: "boy" },
-  { path: "data/girl-names.json", gender: "girl" },
+  { path: "data/boy-names.json", gender: "boy", target: 1500 },
+  { path: "data/girl-names.json", gender: "girl", target: 1500 },
 ];
 
 const seen = new Map();
@@ -13,9 +13,13 @@ const fail = (msg) => {
   console.error("ERROR:", msg);
 };
 
-for (const { path, gender } of files) {
+for (const { path, gender, target } of files) {
   const list = read(path);
-  console.log(`${path}: ${list.length} names`);
+  console.log(`${path}: ${list.length} names (target: ${target})`);
+
+  if (list.length !== target) {
+    fail(`${path}: expected exactly ${target} names, found ${list.length}`);
+  }
 
   for (const n of list) {
     const label = `${path} -> ${n.name ?? "(no name)"}`;
@@ -39,4 +43,5 @@ if (errors) {
   console.error(`\n${errors} problem(s) found.`);
   process.exit(1);
 }
-console.log(`\nAll good. ${seen.size} unique names.`);
+
+console.log(`\nAll validation passed successfully! Exactly ${seen.size} unique names (1,500 boys + 1,500 girls).`);

@@ -1,10 +1,12 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { Heart, X } from "lucide-react";
+import { Heart, X, ExternalLink } from "lucide-react";
+import { sanitizeUrl } from "@/lib/utils";
 
 const AMOUNTS = [3, 5, 10];
-const DONATE_URL = process.env.NEXT_PUBLIC_DONATE_URL;
+const RAW_DONATE_URL = process.env.NEXT_PUBLIC_DONATE_URL;
+const DONATE_URL = sanitizeUrl(RAW_DONATE_URL);
 
 export default function DonationModal() {
   const [open, setOpen] = useState(false);
@@ -13,7 +15,9 @@ export default function DonationModal() {
 
   useEffect(() => {
     if (!open) return;
-    const onKey = (e: KeyboardEvent) => e.key === "Escape" && setOpen(false);
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key === "Escape") setOpen(false);
+    };
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
   }, [open]);
@@ -29,12 +33,12 @@ export default function DonationModal() {
       });
       const data = await res.json();
       if (!res.ok || !data.url) {
-        setError(data.error ?? "Card donations are not available right now.");
+        setError(data.error ?? "Card donations are not configured yet. Please consider supporting via Buy Me a Coffee.");
         return;
       }
-      window.location.href = data.url;
+      window.location.assign(data.url);
     } catch {
-      setError("Something went wrong. Please try again.");
+      setError("Unable to initialize checkout. Please try again or use the support link below.");
     } finally {
       setLoading(null);
     }
@@ -45,67 +49,80 @@ export default function DonationModal() {
       <button
         type="button"
         onClick={() => setOpen(true)}
-        className="flex items-center gap-1.5 rounded border border-gold/60 px-3 py-1.5 text-sm text-gold hover:bg-gold/10"
+        className="flex items-center gap-1.5 rounded border border-gold/70 px-3 py-1.5 text-sm font-medium text-gold hover:bg-gold/15 focus-visible:outline-2 focus-visible:outline-gold"
       >
         <Heart className="h-4 w-4" aria-hidden />
-        <span className="hidden sm:inline">Support us</span>
+        <span className="hidden sm:inline">Support Us</span>
       </button>
 
       {open && (
         <div
-          className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 p-4"
+          className="fixed inset-0 z-50 flex items-center justify-center bg-black/60 p-4 backdrop-blur-xs"
           onClick={() => setOpen(false)}
         >
           <div
             role="dialog"
             aria-modal="true"
             aria-labelledby="donate-title"
-            className="relative w-full max-w-sm rounded-2xl bg-white p-6 shadow-xl"
+            className="relative w-full max-w-md rounded-xl border border-gold/40 bg-paper p-6 text-ink shadow-2xl"
             onClick={(e) => e.stopPropagation()}
           >
             <button
               type="button"
               onClick={() => setOpen(false)}
-              aria-label="Close"
-              className="absolute right-3 top-3 rounded-full p-1 text-gray-500 hover:bg-gray-100"
+              aria-label="Close dialog"
+              className="absolute right-4 top-4 rounded-full p-1.5 text-ink-soft hover:bg-paper-deep focus-visible:outline-2 focus-visible:outline-oxblood"
             >
               <X className="h-5 w-5" />
             </button>
 
-            <h2 id="donate-title" className="text-xl font-semibold">
+            <h2 id="donate-title" className="text-2xl font-semibold text-oxblood">
               Support Christian Names
             </h2>
-            <p className="mt-2 text-sm text-gray-600">
-              This site is free for everyone. If it helped you find a name, a
-              small gift helps us keep it running and growing.
+            <p className="mt-2 text-base text-ink-soft">
+              Christian Names is a 100% free, open dictionary for parents and researchers worldwide. We have no paywalls or user accounts. Voluntary gifts help cover research, hosting, and continuous reference maintenance.
             </p>
 
-            <div className="mt-5 grid grid-cols-3 gap-2">
-              {AMOUNTS.map((a) => (
-                <button
-                  key={a}
-                  type="button"
-                  disabled={loading !== null}
-                  onClick={() => donate(a)}
-                  className="rounded-lg border border-gray-300 py-2 font-medium hover:border-indigo-500 hover:bg-indigo-50 disabled:opacity-50"
-                >
-                  {loading === a ? "..." : `$${a}`}
-                </button>
-              ))}
+            <div className="mt-6">
+              <span className="block text-sm font-medium text-ink-soft">
+                Optional quick gift:
+              </span>
+              <div className="mt-2 grid grid-cols-3 gap-2">
+                {AMOUNTS.map((a) => (
+                  <button
+                    key={a}
+                    type="button"
+                    disabled={loading !== null}
+                    onClick={() => donate(a)}
+                    className="rounded border border-ink/25 bg-white py-2 font-semibold text-oxblood hover:border-oxblood hover:bg-paper-deep disabled:opacity-50 focus-visible:outline-2 focus-visible:outline-oxblood"
+                  >
+                    {loading === a ? "..." : `$${a}`}
+                  </button>
+                ))}
+              </div>
             </div>
 
-            {error && <p className="mt-3 text-sm text-red-600">{error}</p>}
+            {error && (
+              <p className="mt-3 rounded bg-red-50 p-2 text-sm text-red-700 border border-red-200">
+                {error}
+              </p>
+            )}
 
             {DONATE_URL && (
               <a
                 href={DONATE_URL}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="mt-4 block rounded-lg bg-yellow-400 py-2 text-center font-medium text-gray-900 hover:bg-yellow-300"
+                className="mt-5 flex items-center justify-center gap-2 rounded bg-gold px-4 py-2.5 text-center font-medium text-cloth shadow-sm transition-colors hover:bg-gold/90 focus-visible:outline-2 focus-visible:outline-cloth"
               >
-                Buy us a coffee
+                <span>Support via Buy Me a Coffee</span>
+                <ExternalLink className="h-4 w-4" aria-hidden />
               </a>
             )}
+
+            <p className="mt-4 text-center text-xs text-ink-soft">
+              Voluntary contributions are non-tax-deductible personal gifts.
+            </p>
           </div>
         </div>
       )}

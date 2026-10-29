@@ -10,6 +10,9 @@ export interface BabyName {
   reference?: string;
   pronunciation?: string;
   variants?: string[];
+  relatedNames?: string[];
+  editorialNotes?: string;
+  sources?: string[];
 }
 
 export type SearchItem = Pick<BabyName, "slug" | "name" | "gender" | "meaning">;

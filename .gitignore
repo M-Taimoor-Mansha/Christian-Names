@@ -40,3 +40,8 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 public/search-index.json
+
+# python cache
+__pycache__/
+*.pyc
+scripts/cache/

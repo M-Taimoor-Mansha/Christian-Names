@@ -9,7 +9,7 @@ declare global {
 }
 
 interface AdSlotProps {
-  slot: string; // your AdSense ad unit ID
+  slot?: string;
   format?: "auto" | "fluid" | "rectangle";
   className?: string;
 }
@@ -22,20 +22,31 @@ export default function AdSlot({
   const pushed = useRef(false);
   const adsenseId = process.env.NEXT_PUBLIC_ADSENSE_ID;
 
+  // Never render fake dummy slots like "0000000001" or empty slots
+  const isValidSlot = slot && !/^0+$/.test(slot.replace(/[^0-9]/g, "")) && slot.length > 5;
+  const isEnabled = adsenseId && adsenseId.startsWith("ca-pub-") && isValidSlot;
+
   useEffect(() => {
-    if (!adsenseId || pushed.current) return;
+    if (!isEnabled || pushed.current) return;
     try {
       (window.adsbygoogle = window.adsbygoogle || []).push({});
       pushed.current = true;
     } catch (e) {
       console.error("AdSense error:", e);
     }
-  }, [adsenseId]);
+  }, [isEnabled]);
 
-  if (!adsenseId) return null;
+  if (!isEnabled) {
+    // Return empty placeholder container during development to prevent layout shifts
+    // while keeping content genuine and strictly free of fake advertisement mockups.
+    return null;
+  }
 
   return (
-    <div className={`my-6 min-h-[100px] text-center ${className}`}>
+    <aside
+      aria-label="Advertisement"
+      className={`my-8 min-h-[100px] text-center ${className}`}
+    >
       <ins
         className="adsbygoogle"
         style={{ display: "block" }}
@@ -44,6 +55,6 @@ export default function AdSlot({
         data-ad-format={format}
         data-full-width-responsive="true"
       />
-    </div>
+    </aside>
   );
 }
