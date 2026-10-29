@@ -83,7 +83,10 @@ export default function SearchBar() {
   // Dismiss on outside click
   useEffect(() => {
     function onDocClick(e: MouseEvent) {
-      if (containerRef.current && !containerRef.current.contains(e.target as Node)) {
+      if (
+        containerRef.current &&
+        !containerRef.current.contains(e.target as Node)
+      ) {
         setIsOpen(false);
       }
     }
@@ -92,7 +95,10 @@ export default function SearchBar() {
   }, []);
 
   return (
-    <div ref={containerRef} className="relative mx-auto w-full max-w-xl text-left">
+    <div
+      ref={containerRef}
+      className="relative mx-auto w-full max-w-xl text-left"
+    >
       <div className="flex items-center gap-2 rounded-full border border-ink/25 bg-paper px-5 py-3 shadow-sm transition-all focus-within:border-oxblood focus-within:ring-2 focus-within:ring-oxblood/20">
         <Search className="h-5 w-5 text-ink-soft" aria-hidden />
         <input
@@ -113,7 +119,9 @@ export default function SearchBar() {
           aria-label="Search Christian names dictionary"
           className="w-full bg-transparent text-lg outline-none placeholder:text-ink-soft/70"
         />
-        {loading && <Loader2 className="h-4 w-4 animate-spin text-ink-soft" aria-hidden />}
+        {loading && (
+          <Loader2 className="h-4 w-4 animate-spin text-ink-soft" aria-hidden />
+        )}
         {query && !loading && (
           <button
             type="button"

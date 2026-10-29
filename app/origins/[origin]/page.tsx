@@ -55,7 +55,9 @@ export default async function OriginPage({ params }: Props) {
           Home
         </Link>
         {" / "}
-        <span>Origins</span>
+        <Link href="/origins" className="hover:text-oxblood hover:underline">
+          Origins
+        </Link>
         {" / "}
         <span className="text-oxblood font-medium">{capital}</span>
       </nav>

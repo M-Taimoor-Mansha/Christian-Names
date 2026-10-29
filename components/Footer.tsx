@@ -5,6 +5,7 @@ const directoryLinks = [
   { href: "/christian-boy-names", label: "Boys’ Names" },
   { href: "/christian-girl-names", label: "Girls’ Names" },
   { href: "/biblical-names", label: "Biblical Names" },
+  { href: "/origins", label: "Linguistic Origins" },
   { href: "/donate", label: "Voluntary Donations" },
 ];
 
