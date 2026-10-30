@@ -27,8 +27,46 @@ export default function OriginsIndexPage() {
     b[1] - a[1] || a[0].localeCompare(b[0])
   );
 
+  const pageUrl = `${SITE_URL}/origins`;
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": `${pageUrl}#webpage`,
+        url: pageUrl,
+        name: "Christian Names by Linguistic Origin - Hebrew, Latin, Greek & More",
+        description:
+          "Explore Christian baby names categorized by their linguistic and historical origin, including Hebrew, Greek, Latin, Aramaic, and European traditions.",
+        inLanguage: "en",
+        breadcrumb: {
+          "@id": `${pageUrl}#breadcrumb`,
+        },
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": `${pageUrl}#breadcrumb`,
+        itemListElement: [
+          { "@type": "ListItem", position: 1, name: "Home", item: SITE_URL },
+          {
+            "@type": "ListItem",
+            position: 2,
+            name: "Linguistic Origins",
+            item: pageUrl,
+          },
+        ],
+      },
+    ],
+  };
+
   return (
     <main className="py-4">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(jsonLd).replace(/</g, "\\u003c"),
+        }}
+      />
       <nav aria-label="Breadcrumb" className="mb-6 text-base italic text-ink-soft">
         <Link href="/" className="hover:text-oxblood hover:underline">
           Home

@@ -13,7 +13,7 @@ export default function ContactPage() {
   const email = process.env.NEXT_PUBLIC_CONTACT_EMAIL;
 
   return (
-    <LegalPage title="Contact &amp; Submissions">
+    <LegalPage title="Contact & Submissions" path="/contact">
       <p>
         We welcome inquiries, scholarly feedback, name suggestions, and corrections from parents, pastors, and language scholars worldwide.
       </p>

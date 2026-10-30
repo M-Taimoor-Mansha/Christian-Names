@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import Script from "next/script";
 import { EB_Garamond } from "next/font/google";
 import "./globals.css";
@@ -12,6 +12,12 @@ const garamond = EB_Garamond({
   variable: "--font-garamond",
 });
 
+export const viewport: Viewport = {
+  themeColor: "#581825",
+  width: "device-width",
+  initialScale: 1,
+};
+
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
@@ -24,6 +30,7 @@ export const metadata: Metadata = {
     type: "website",
     siteName: "Christian Names",
     url: SITE_URL,
+    locale: "en_US",
   },
   twitter: { card: "summary_large_image" },
   alternates: { canonical: "/" },

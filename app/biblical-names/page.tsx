@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import NameDirectory from "@/components/NameDirectory";
 import Ornament from "@/components/Ornament";
-import { getBiblicalNames } from "@/lib/utils";
+import { getBiblicalNames, SITE_URL } from "@/lib/utils";
 
 export const metadata: Metadata = {
   title: "Biblical Names: Baby Names with Scripture References",
@@ -20,8 +21,53 @@ export default function BiblicalNamesPage() {
       origin,
     }));
 
+  const pageUrl = `${SITE_URL}/biblical-names`;
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": `${pageUrl}#webpage`,
+        url: pageUrl,
+        name: "Biblical Names: Baby Name Meanings, Verses & Scripture References",
+        description:
+          "Browse biblical baby names directly recorded in Scripture with chapter and verse references, Hebrew and Greek meanings, and faith-filled stories.",
+        inLanguage: "en",
+        breadcrumb: {
+          "@id": `${pageUrl}#breadcrumb`,
+        },
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": `${pageUrl}#breadcrumb`,
+        itemListElement: [
+          { "@type": "ListItem", position: 1, name: "Home", item: SITE_URL },
+          {
+            "@type": "ListItem",
+            position: 2,
+            name: "Biblical Names",
+            item: pageUrl,
+          },
+        ],
+      },
+    ],
+  };
+
   return (
     <main className="py-4">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(jsonLd).replace(/</g, "\\u003c"),
+        }}
+      />
+      <nav aria-label="Breadcrumb" className="mb-6 text-base italic text-ink-soft">
+        <Link href="/" className="hover:text-oxblood hover:underline">
+          Home
+        </Link>
+        {" / "}
+        <span className="text-oxblood font-medium">Biblical Names</span>
+      </nav>
       <header className="text-center">
         <span className="smcp text-base font-semibold tracking-widest text-gold">
           Canonical Scripture

@@ -45,7 +45,7 @@ export function getBiblicalNames(limit?: number): BabyName[] {
 
 export function getNamesByOrigin(origin: string, limit?: number): BabyName[] {
   const norm = origin.trim().toLowerCase();
-  const list = allNames.filter((n) => n.origin.toLowerCase().includes(norm));
+  const list = allNames.filter((n) => n.origin.toLowerCase() === norm);
   return limit ? list.slice(0, limit) : list;
 }
 

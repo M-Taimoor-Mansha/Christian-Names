@@ -9,7 +9,7 @@ export const metadata: Metadata = {
 
 export default function TermsPage() {
   return (
-    <LegalPage title="Terms of Use" updated="October 29, 2026">
+    <LegalPage title="Terms of Use" updated="October 29, 2026" path="/terms">
       <p>
         By using Christian Names, you agree to these terms. If you do not agree,
         please do not use the site.

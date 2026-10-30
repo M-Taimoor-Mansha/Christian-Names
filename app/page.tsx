@@ -50,13 +50,9 @@ export default function HomePage() {
           "Free dictionary of Christian and biblical baby names with authentic meanings, origins, and Scripture references.",
         publisher: {
           "@type": "Organization",
+          "@id": `${SITE_URL}/#organization`,
           name: "Christian Names",
           url: SITE_URL,
-        },
-        potentialAction: {
-          "@type": "SearchAction",
-          target: `${SITE_URL}/names/{search_term_string}`,
-          "query-input": "required name=search_term_string",
         },
       },
     ],

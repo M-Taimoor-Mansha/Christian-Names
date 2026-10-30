@@ -27,8 +27,46 @@ export default function GirlNamesPage() {
       origin,
     }));
 
+  const pageUrl = `${SITE_URL}/christian-girl-names`;
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": `${pageUrl}#webpage`,
+        url: pageUrl,
+        name: "Christian Girl Names: Meanings, Origins & Bible References",
+        description:
+          "Browse Christian girl names with authentic meanings, linguistic origins, pronunciations, and Bible references.",
+        inLanguage: "en",
+        breadcrumb: {
+          "@id": `${pageUrl}#breadcrumb`,
+        },
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": `${pageUrl}#breadcrumb`,
+        itemListElement: [
+          { "@type": "ListItem", position: 1, name: "Home", item: SITE_URL },
+          {
+            "@type": "ListItem",
+            position: 2,
+            name: "Christian Girl Names",
+            item: pageUrl,
+          },
+        ],
+      },
+    ],
+  };
+
   return (
     <main className="py-4">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(jsonLd).replace(/</g, "\\u003c"),
+        }}
+      />
       <nav aria-label="Breadcrumb" className="mb-6 text-base italic text-ink-soft">
         <Link href="/" className="hover:text-oxblood hover:underline">
           Home

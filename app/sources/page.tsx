@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 
 export default function SourcesPage() {
   return (
-    <LegalPage title="Sources &amp; Methodology" updated="October 29, 2026">
+    <LegalPage title="Sources & Methodology" updated="October 29, 2026" path="/sources">
       <p>
         The Christian Names dictionary is compiled from established historical, biblical, and etymological authorities. We prioritize primary texts and peer-reviewed onomastic scholarship over unverified commercial name lists.
       </p>

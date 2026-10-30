@@ -11,7 +11,7 @@ export const metadata: Metadata = {
 
 export default function PrivacyPolicyPage() {
   return (
-    <LegalPage title="Privacy Policy" updated="October 29, 2026">
+    <LegalPage title="Privacy Policy" updated="October 29, 2026" path="/privacy-policy">
       <p>
         Christian Names (&ldquo;we,&rdquo; &ldquo;our,&rdquo; or &ldquo;the site&rdquo;) values your privacy. This policy explains what information may be collected when you access and browse this website, how it is used, and your rights regarding cookies and personal data.
       </p>

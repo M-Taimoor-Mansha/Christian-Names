@@ -70,7 +70,7 @@ export default async function NamePage({ params }: Props) {
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "WebPage",
+        "@type": "ItemPage",
         "@id": `${pageUrl}#webpage`,
         url: pageUrl,
         name: `${item.name}: Christian Name Meaning, Origin & Bible Reference`,
@@ -79,8 +79,19 @@ export default async function NamePage({ params }: Props) {
         breadcrumb: {
           "@id": `${pageUrl}#breadcrumb`,
         },
+        mainEntity: {
+          "@type": "DefinedTerm",
+          name: item.name,
+          description: item.meaning,
+          inDefinedTermSet: {
+            "@type": "DefinedTermSet",
+            name: "Christian Names Dictionary",
+            url: SITE_URL,
+          },
+        },
         publisher: {
           "@type": "Organization",
+          "@id": `${SITE_URL}/#organization`,
           name: "Christian Names",
           url: SITE_URL,
         },

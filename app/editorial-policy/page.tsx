@@ -11,7 +11,7 @@ export const metadata: Metadata = {
 
 export default function EditorialPolicyPage() {
   return (
-    <LegalPage title="Editorial Policy" updated="October 29, 2026">
+    <LegalPage title="Editorial Policy" updated="October 29, 2026" path="/editorial-policy">
       <p>
         At Christian Names, our mission is to provide an authoritative, culturally respectful, and transparent dictionary of Christian, biblical, Hebrew, Greek, Latin, and related historical names.
       </p>

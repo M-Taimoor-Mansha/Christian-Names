@@ -11,7 +11,7 @@ export const metadata: Metadata = {
 
 export default function AboutPage() {
   return (
-    <LegalPage title="About Christian Names">
+    <LegalPage title="About Christian Names" path="/about">
       <p>
         Christian Names is an independent, globally accessible dictionary dedicated to the etymology, history, and spiritual heritage of Christian personal names. We provide parents, scholars, educators, and pastors with an authentic, verified reference of names rooted in Sacred Scripture, early church history, and linguistic traditions across the world.
       </p>

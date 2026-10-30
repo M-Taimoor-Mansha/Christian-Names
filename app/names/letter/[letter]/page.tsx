@@ -43,8 +43,45 @@ export default async function LetterPage({ params }: Props) {
       origin,
     }));
 
+  const pageUrl = `${SITE_URL}/names/letter/${letter.toLowerCase()}`;
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": `${pageUrl}#webpage`,
+        url: pageUrl,
+        name: `Christian Names Starting with ${upper} - Meanings & Origins`,
+        description: `Browse ${matching.length} Christian boy and girl names starting with the letter ${upper}.`,
+        inLanguage: "en",
+        breadcrumb: {
+          "@id": `${pageUrl}#breadcrumb`,
+        },
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": `${pageUrl}#breadcrumb`,
+        itemListElement: [
+          { "@type": "ListItem", position: 1, name: "Home", item: SITE_URL },
+          {
+            "@type": "ListItem",
+            position: 2,
+            name: `Letter ${upper}`,
+            item: pageUrl,
+          },
+        ],
+      },
+    ],
+  };
+
   return (
     <main className="py-4">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(jsonLd).replace(/</g, "\\u003c"),
+        }}
+      />
       <nav aria-label="Breadcrumb" className="mb-6 text-base italic text-ink-soft">
         <Link href="/" className="hover:text-oxblood hover:underline">
           Home

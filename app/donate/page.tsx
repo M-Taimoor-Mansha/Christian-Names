@@ -16,7 +16,7 @@ export default function DonatePage() {
   const donateUrl = sanitizeUrl(rawDonateUrl);
 
   return (
-    <LegalPage title="Support Christian Names">
+    <LegalPage title="Support Christian Names" path="/donate">
       <div className="rounded-xl border border-gold/40 bg-paper-deep/50 p-6 text-center">
         <Heart className="mx-auto h-10 w-10 text-oxblood" aria-hidden />
         <h2 className="mt-2 text-2xl font-semibold text-oxblood">
